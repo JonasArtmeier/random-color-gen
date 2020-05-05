@@ -1,0 +1,8 @@
+{
+  "name": "random-color-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JonasArtmeier/random-color-gen.git",
+  "author": "Jonas Artmeier <jonas-artmeier@web.de>",
+  "license": "MIT"
+}
