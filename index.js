@@ -7,5 +7,7 @@ let result = input
   ? chalk.hex(color)(
       `########################################################### ${color}###############`,
     )
-  : chalk.hex(guessedColor)(guessedColor);
+  : chalk.hex(guessedColor)(
+      `########################################################### ${guessedColor}###############`,
+    );
 console.log(result);
